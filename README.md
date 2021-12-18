@@ -72,7 +72,7 @@ The code can be found in the ETL_create_database.ipynb
 Hence after our analysis it can be found out that the movies table has count 6052 entries and the rating table has 26024289 count.
 
 ## Note:
-Because of the huge size of the .csv files, I have created a sample .csv file with 1000 rows only. It is located in th eResources folder. Please use these files to run the analysis.
+Because of the huge size of the .csv files, I have created a sample .csv file with 100 rows only. These files are named as movies_metadata_sample.csv and ratings_sample.csv. It is located in the Resources folder. Please use these files to run the analysis. The original .csv files have been defined in the .gitignore file to avoid upload error.
 
 ## References:
 
